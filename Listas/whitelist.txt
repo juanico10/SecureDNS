@@ -214,6 +214,7 @@ app.launchdarkly.com
 events.launchdarkly.com
 clientstream.launchdarkly.com
 @@orangepage.ru^
+@@||revolt.chat^
 
 #### Correos
 correos.tt.omtrdc.net
