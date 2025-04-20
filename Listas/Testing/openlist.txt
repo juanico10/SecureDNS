@@ -33,6 +33,10 @@ xtrapath3.izatcloud.net
 @@||voyage-prive.com^
 @@||eulerian.net^
 @@||awstrack.me^
+pre.sania.chat
+dev.sania.chat
+sania.chat
+www.sania.chat
 
 #### instagram
 i.instagram.com

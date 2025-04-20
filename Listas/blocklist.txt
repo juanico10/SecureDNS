@@ -31619,6 +31619,17 @@
 ||financieracorteingles.tuincidencia.info^
 ||easy-comprobar.com^
 ||movilbbva.info^
+||p3a.brave.com^
+||laptop-updates.brave.com^
+||static1.brave.com^
+||brave-core-ext.s3.brave.com^
+||mirmir.vivaldi.com^
+||ct.ws^
+||ing.esp-soporte.com^
+||t.elcxomb.top^
+||onl.inebanco.com^
+||ls-whatsapp.com^
+||dgtmss-sede.cfd^
 
 ########### REGEX
 /(.+[_.-]+[0-9]*)?porn(o)?([0-9])*[_.-]?/$important

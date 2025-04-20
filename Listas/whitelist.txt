@@ -215,6 +215,8 @@ events.launchdarkly.com
 clientstream.launchdarkly.com
 @@orangepage.ru^
 @@||revolt.chat^
+@@||tox.chat^
+@@||tdtchannels.com^
 
 #### Correos
 correos.tt.omtrdc.net
@@ -357,6 +359,7 @@ inbound.studentbeans.com
 app.getresponse.com
 click.linksynergy.com
 crownsportnutrition.us13.list-manage.com
+click.redditmail.com
 
 #### Mediaset
 ms20.spxl.socy.es
