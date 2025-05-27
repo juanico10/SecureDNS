@@ -31629,6 +31629,9 @@
 ||onl.inebanco.com^
 ||ls-whatsapp.com^
 ||dgtmss-sede.cfd^
+||168424.cc^
+||www.e.vg^
+||dwjfo.com^
 
 ########### REGEX
 /(.+[_.-]+[0-9]*)?porn(o)?([0-9])*[_.-]?/
