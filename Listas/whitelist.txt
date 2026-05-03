@@ -217,6 +217,7 @@ clientstream.launchdarkly.com
 @@||revolt.chat^
 @@||tox.chat^
 @@||tdtchannels.com^
+@@||garmin.com^$important
 
 #### Correos
 correos.tt.omtrdc.net
