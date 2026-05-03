@@ -61,21 +61,3 @@ scontent.xx.fbcdn.net
 mqtt-mini.facebook.com
 gateway.facebook.com
 graph.facebook.com
-
-#### Permitir solo a usuarios
-@@cdp.cloud.unity3d.com^$client=Isa|Miguel
-@@d.applovin.com^$client=Isa|Miguel
-@@rt.applovin.com^$client=Isa|Miguel
-@@ms.applovin.com^$client=Isa|Miguel
-@@bid.applovin.com^$client=Isa|Miguel
-@@prod-a4.applovin.com^$client=Isa|Miguel
-
-
-## Pablo
-@@||pornhub.com^$client='Pablo'
-@@www.awin1.com^$client='Pablo'
-@@clk.tradedoubler.com^$client='Pablo'
-@@ad.doubleclick.net^$client='Pablo'
-@@skyscanner.pxf.io^$client='Pablo'
-@@www.dpbolvw.net^$client='Pablo'
-@@prf.hn^$client='Pablo'
