@@ -31803,3 +31803,12 @@
 
 # Ads streaming
 /(aa-a|3ww-a)*[-._]+akamaihd.net/
+
+# Juegos
+||smart.link^$important
+||permutive.app^$important
+/(ms[0-9]*|res[0-9]+|sts|d|rt|img|artifacts|t|prod-a[0-9]+|(prod|stage)-mediate-events)\.applovin\.com/$important
+/(ms[0-9]*|res[0-9]+|sts|d|rt|img|artifacts|t|prod-a[0-9]+|(prod|stage)-mediate-events)\.applvn\.com/$important
+||maticooads.com^$important
+/(stage-|prod-)*(e|e4)\.axon\.ai/$important
+||safedk.com^$important
