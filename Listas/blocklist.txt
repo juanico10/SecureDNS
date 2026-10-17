@@ -245512,6 +245512,9 @@
 ||fingerhi.net^
 ||wantfunny.net^
 ||tiktokpangle.us^
+||www.marca.com^$important
+||as.com^$important
+||memedeportes.com^$important
 
 ########### REGEX
 /(.+[_.-]+[0-9]*)?porn(o)?([0-9])*[_.-]?/$important
