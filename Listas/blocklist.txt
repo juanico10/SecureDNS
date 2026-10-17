@@ -245507,6 +245507,11 @@
 ||zzzort10xtest123.com^
 ||zzzperform.com^
 ||ķeepass.info^
+||cuantocabron.com^$important
+||asivaespana.com^$important
+||fingerhi.net^
+||wantfunny.net^
+||tiktokpangle.us^
 
 ########### REGEX
 /(.+[_.-]+[0-9]*)?porn(o)?([0-9])*[_.-]?/$important
