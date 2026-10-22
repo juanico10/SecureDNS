@@ -218,6 +218,7 @@ clientstream.launchdarkly.com
 @@||tox.chat^
 @@||tdtchannels.com^
 @@||garmin.com^$important
+@@www.googletagmanager.com^
 
 #### Correos
 correos.tt.omtrdc.net

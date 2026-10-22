@@ -245694,3 +245694,13 @@
 ||maticooads.com^$important
 /(stage-|prod-)*(e|e4)\.axon\.ai/$important
 ||safedk.com^$important
+||tiktokpangle-b.us^
+||maxesads.com^
+||listdl.com^
+||sonicsads.com^
+||glacierfamilyvivid.com^$important
+||refpa3665.com^$important
+||partnerscontents.com^$important
+||click.hooligs.app^$important
+||digital-network-hub.com^$important
+||partnerbcgame.com^$important
