@@ -18,25 +18,6 @@
 !-----------------------------------------------------------------------!
 #### whitelist
 www.intimissimi.com
-@@||forms.gle^
-www.deviantart.com
-@@www.googleadservices.com^$client='Silvia'
-@@||doubleclick.net^$client='Silvia'
-@@adservice.google.com^$client='Silvia'
-@@||loteriasyapuestas.es^
-path1.xtracloud.net
-path2.xtracloud.net
-path3.xtracloud.net
-xtrapath1.izatcloud.net
-xtrapath2.izatcloud.net
-xtrapath3.izatcloud.net
-@@||voyage-prive.com^
-@@||eulerian.net^
-@@||awstrack.me^
-pre.sania.chat
-dev.sania.chat
-sania.chat
-www.sania.chat
 
 #### instagram
 i.instagram.com
